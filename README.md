@@ -8,8 +8,7 @@
 <a href="https://twitter.com/arnobsark"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/arnobsark/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@arnobsark"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://www.youtube.com/@hexhybrids"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="mailto:arnobsark@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:arnobstack@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -30,38 +29,33 @@ I enjoy building software from frontend to backend—creating clean interfaces, 
 ## 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,mongodb,postgres,mysql,firebase,docker,git,github,vscode,figma&perline=16" />
+<img height="30" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,mongodb,postgres,mysql,firebase,docker,git,github,vscode,figma&perline=16" />
 </p>
 
----
 
-# 📚 Currently Learning
 
-- Advanced System Design
-- Kubernetes
-- AWS
-- Microservices
-- AI & LLM Applications
+🌱 Currently exploring <b>System Design, Kubernetes, AWS, Microservices and AI applications </b>.
 
 ---
 
 ### Thanks for visiting ❤️
 
-If you like my work, consider giving a ⭐ to my repositories.
+If you're interested in collaborating or discussing an opportunity, feel free to connect with me.
 
 </p>
 
----
-
 <table>
   <tr>
-    <td width="65%">
+    <td width="60%">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnobsark&theme=github-compact&hide_border=true" alt="Activity Graph"/>
     </td>
-    <td width="35%">
+    <td width="40%">
       <img src="https://streak-stats.demolab.com?user=arnobsark&theme=transparent&hide_border=true" alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
+
+
+
 
 
