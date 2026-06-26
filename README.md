@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hello+There!+👋;I'm+Arnob+Sarker;Full+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</h1>
 
-<!--
-**arnobsark/arnobsark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://twitter.com/arnobsark"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/arnobsark/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@arnobsark"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://www.youtube.com/@hexhybrids"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="mailto:arnobsark@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+Full Stack Developer from **Bangladesh** 🇧🇩 with **3+ years** of experience building modern web applications.
+
+I enjoy building software from frontend to backend—creating clean interfaces, scalable APIs, and reliable systems. I'm passionate about writing maintainable code, solving real-world problems, and continuously learning new technologies.
+
+- 🚀 Building production-ready web applications
+- 🌱 Learning System Design, Cloud & AI
+- 🤝 Open to collaboration on exciting projects
+- ⚡ Coffee + Music + Code = Perfect day
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,mongodb,postgres,mysql,firebase,docker,git,github,vscode,figma&perline=16" />
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Advanced System Design
+- Kubernetes
+- AWS
+- Microservices
+- AI & LLM Applications
+
+---
+
+### Thanks for visiting ❤️
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</p>
+
+---
+
+<table>
+  <tr>
+    <td width="65%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnobsark&theme=github-compact&hide_border=true" alt="Activity Graph"/>
+    </td>
+    <td width="35%">
+      <img src="https://streak-stats.demolab.com?user=arnobsark&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
+
+
